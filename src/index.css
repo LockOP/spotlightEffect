@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-cursor {
+    cursor: url('./images/Cursor.svg') 20 20, auto;
+  }
